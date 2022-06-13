@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3515c20e-8b77-4aa5-aab4-c84167db3459" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tcrush" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tcrush" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="tcrush" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25vw4twkHVS1bogiuoDLd6rTk9H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Gradle.tcrush [run]">
+    <configuration name="Level" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.tcrush.gamelogic.Level" />
+      <module name="tcrush.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.tcrush.gamelogic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParserUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.tcrush.parse.ParserUtils" />
+      <module name="tcrush.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.tcrush.parse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCrushGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jpp.tcrush.gui.TCrushGui" />
+      <module name="tcrush.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jpp.tcrush.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tcrush [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.tcrush [run]" />
+        <item itemvalue="Application.TCrushGui" />
+        <item itemvalue="Application.Level" />
+        <item itemvalue="Application.ParserUtils" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\janst\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Ableitrechner\tcrush" />
+          <option name="myCopyRoot" value="D:\Ableitrechner\tcrush" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\Ableitrechner\tcrush" />
+          <option name="myCopyRoot" value="D:\Ableitrechner\tcrush" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3515c20e-8b77-4aa5-aab4-c84167db3459" name="Changes" comment="" />
+      <created>1646420680939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646420680939</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Utils98">
+      <created>1646920879288</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1646920879288</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Utils99">
+      <created>1646921120625</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1646921120625</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Utils100">
+      <created>1646921247020</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1646921247020</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Utils101">
+      <created>1646927485406</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1646927485406</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Utils102">
+      <created>1646928425703</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1646928425703</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Utils103">
+      <created>1646928459236</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1646928459236</updated>
+    </task>
+    <task id="LOCAL-00102" summary="Utils104">
+      <created>1646928729194</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1646928729194</updated>
+    </task>
+    <task id="LOCAL-00103" summary="Utils105">
+      <created>1646970170034</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1646970170034</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Utils106">
+      <created>1646970276652</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1646970276652</updated>
+    </task>
+    <task id="LOCAL-00105" summary="Utils107">
+      <created>1646993913346</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1646993913346</updated>
+    </task>
+    <task id="LOCAL-00106" summary="Utils108">
+      <created>1646994027734</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1646994027735</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Utils109">
+      <created>1646999665121</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1646999665121</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Utils110">
+      <created>1647005653547</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1647005653547</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Utils111">
+      <created>1647005949413</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1647005949413</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Utils112">
+      <created>1647020122080</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1647020122080</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Utils113">
+      <created>1647020579795</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1647020579796</updated>
+    </task>
+    <task id="LOCAL-00112" summary="Utils114">
+      <created>1647021465355</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1647021465356</updated>
+    </task>
+    <task id="LOCAL-00113" summary="Utils115">
+      <created>1647021773965</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1647021773965</updated>
+    </task>
+    <task id="LOCAL-00114" summary="Utils116">
+      <created>1647023551478</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1647023551485</updated>
+    </task>
+    <task id="LOCAL-00115" summary="Utils117">
+      <created>1647023861119</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1647023861119</updated>
+    </task>
+    <task id="LOCAL-00116" summary="Utils118">
+      <created>1647025216325</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1647025216325</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Utils119">
+      <created>1647027014321</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1647027014321</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Utils120">
+      <created>1647027583723</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1647027583723</updated>
+    </task>
+    <task id="LOCAL-00119" summary="Utils121">
+      <created>1647028866412</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1647028866413</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Utils122">
+      <created>1647029026289</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1647029026289</updated>
+    </task>
+    <task id="LOCAL-00121" summary="Utils123">
+      <created>1647029474428</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1647029474428</updated>
+    </task>
+    <task id="LOCAL-00122" summary="Utils124">
+      <created>1647030018515</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1647030018515</updated>
+    </task>
+    <task id="LOCAL-00123" summary="Utils125">
+      <created>1647030306429</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1647030306429</updated>
+    </task>
+    <task id="LOCAL-00124" summary="Utils126">
+      <created>1647030434666</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1647030434666</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Utils127">
+      <created>1647031167535</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1647031167535</updated>
+    </task>
+    <task id="LOCAL-00126" summary="Utils128">
+      <created>1647031504396</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1647031504399</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Utils129">
+      <created>1647031777337</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1647031777337</updated>
+    </task>
+    <task id="LOCAL-00128" summary="Utils130">
+      <created>1647034010068</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1647034010068</updated>
+    </task>
+    <task id="LOCAL-00129" summary="Utils131">
+      <created>1647035439312</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1647035439312</updated>
+    </task>
+    <task id="LOCAL-00130" summary="Utils132">
+      <created>1647035999763</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1647035999763</updated>
+    </task>
+    <task id="LOCAL-00131" summary="Utils133">
+      <created>1647036520585</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1647036520586</updated>
+    </task>
+    <task id="LOCAL-00132" summary="Utils134">
+      <created>1647037309622</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1647037309622</updated>
+    </task>
+    <task id="LOCAL-00133" summary="Utils135">
+      <created>1647037497826</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1647037497826</updated>
+    </task>
+    <task id="LOCAL-00134" summary="Utils136">
+      <created>1647204912071</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1647204912071</updated>
+    </task>
+    <task id="LOCAL-00135" summary="Utils137">
+      <created>1647249826042</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1647249826042</updated>
+    </task>
+    <task id="LOCAL-00136" summary="Utils138">
+      <created>1647251084507</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1647251084507</updated>
+    </task>
+    <task id="LOCAL-00137" summary="Utils139">
+      <created>1647251275942</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1647251275942</updated>
+    </task>
+    <task id="LOCAL-00138" summary="Utils140">
+      <created>1647251779190</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1647251779191</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Utils141">
+      <created>1647252068272</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1647252068272</updated>
+    </task>
+    <task id="LOCAL-00140" summary="Utils142">
+      <created>1647253766982</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1647253766982</updated>
+    </task>
+    <task id="LOCAL-00141" summary="Utils143">
+      <created>1649186991807</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1649186991811</updated>
+    </task>
+    <task id="LOCAL-00142" summary="Utils144">
+      <created>1649357264445</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1649357264446</updated>
+    </task>
+    <task id="LOCAL-00143" summary="Utils145">
+      <created>1649360266370</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1649360266370</updated>
+    </task>
+    <task id="LOCAL-00144" summary="Utils146">
+      <created>1649360965903</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1649360965904</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utils122" />
+    <MESSAGE value="Utils123" />
+    <MESSAGE value="Utils124" />
+    <MESSAGE value="Utils125" />
+    <MESSAGE value="Utils126" />
+    <MESSAGE value="Utils127" />
+    <MESSAGE value="Utils128" />
+    <MESSAGE value="Utils129" />
+    <MESSAGE value="Utils130" />
+    <MESSAGE value="Utils131" />
+    <MESSAGE value="Utils132" />
+    <MESSAGE value="Utils133" />
+    <MESSAGE value="Utils134" />
+    <MESSAGE value="Utils135" />
+    <MESSAGE value="Utils136" />
+    <MESSAGE value="Utils137" />
+    <MESSAGE value="Utils138" />
+    <MESSAGE value="Utils139" />
+    <MESSAGE value="Utils140" />
+    <MESSAGE value="Utils141" />
+    <MESSAGE value="Utils142" />
+    <MESSAGE value="Utils143" />
+    <MESSAGE value="Utils144" />
+    <MESSAGE value="Utils145" />
+    <MESSAGE value="Utils146" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utils146" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/tcrush/gamelogic/Level.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/tcrush/gui/TCrushGui.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/tcrush/gui/TCrushGui.java</url>
+          <line>181</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/jpp/tcrush/gui/TCrushGui.java</url>
+          <line>713</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="jpp.tcrush.gamelogic.field.CELL" memberName="keinItem" />
+        <PinnedItemInfo parentTag="jpp.tcrush.gamelogic.field.CELL" memberName="itemChanged" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="hashMap" language="JAVA" />
+        <watch expression="hashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tcrush$ParserUtils.ic" NAME="ParserUtils Coverage Results" MODIFIED="1647003810609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>jpp.tcrush.parse.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/tcrush$tcrush__run_.ic" NAME="tcrush [run] Coverage Results" MODIFIED="1647070575466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
